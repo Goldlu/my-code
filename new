@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Html Crash Coures For Beginner</title>
+</head>
+
+<body>
+    <!--Headings-->
+    <h1>Heading One</h1>
+    <h1>Heading One</h1>
+    <h1>Heading One</h1>
+    <h1>Heading One</h1>
+    <h1>Heading One</h1>
+    <!-- Pargagraph-->
+    <p>Lorem ipsum dolor<strong> sit amet consectetur adipisicing elit.</strong> <a href="https://google.com">Culpa</a>,
+        saepe.</p>
+    <p><em>Lorem ipsum dolor sit amet consectetur adipisicing elit. </em>>Ipsum iusto animi exercitationem eligendi modi
+        quia, omnis, nam tenetur libero laboriosam perspiciatis harum culpa dolores temporibus iure, aliquid possimus.
+        Modi itaque similique quia dolores quae quibusdam in molestiae nesciunt vero corporis provident aliquam quos
+        vitae placeat quo, commodi pariatur. Magnam, non!</p>
+    <!--Lists  -->
+    <ul>
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+        <li>List Item 3</li>
+        <li>List Item 4</li>
+        <li>List Item 5</li>
+    </ul>
+    <ol>
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+        <li>List Item 3</li>
+        <li>List Item 4</li>
+        <li>List Item 5</li>
+    </ol>
+    <!-- Table -->
+    <br>
+    <br>
+    <hr>
+    <table>
+        <thead>
+            <!-- 横的叫r -->
+            <tr>
+                <th>firest name </th>
+                <th>Last name </th>
+                <th>Email </th>
+
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <!-- 数据内容 -->
+                <td>特</td>
+                <td>鹿邑</td>
+                <td>168.网易云.com</td>
+            </tr>
+            <tr>
+                <!-- 数据内容 -->
+                <td>特</td>
+                <td>鹿邑</td>
+                <td>168.网易云.com</td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- Forms -->
+    <form >
+        <div>
+            <label>firest name</label>
+            <input type="text" name="first name" placeholder="enter firest name">
+        </div>
+        <div>
+            <label>Last name</label>
+            <input type="text" name="last name" placeholder="enter last name">
+        </div>
+        <div>
+            <label>Email</label>
+            <input type="email" name="email" placeholder="enter email ">
+        </div>
+        <input type="submit" name="submit" name="submit">
+    </form>
+    <p>下面是一幅画</p>
+    <p><img style="width: 500px;height: 400px;"  src="img/照片.jpg" alt="看啥看，没见过美女吗"></p>
+</body>
+
+</html>
